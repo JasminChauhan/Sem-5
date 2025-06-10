@@ -1,0 +1,1 @@
+const APPBAR_TITLE = 'Amazon';
